@@ -1,0 +1,5 @@
+{
+  "name": "@foo/design",
+  "private": true,
+  "type": "module"
+}

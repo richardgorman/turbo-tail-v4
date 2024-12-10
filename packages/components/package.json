@@ -1,0 +1,13 @@
+{
+  "name": "@foo/components",
+  "private": true,
+  "type": "module",
+  "main": "src/index.ts",
+  "dependencies": {
+    "@foo/design": "workspace:*",
+    "react": "19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.1"
+  }
+}

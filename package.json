@@ -1,0 +1,17 @@
+{
+  "name": "project-foo",
+  "private": true,
+  "scripts": {
+    "build": "turbo build -- ",
+    "start": "turbo start --"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "turbo": "2.3.3",
+    "typescript": "5.7.2"
+  },
+  "packageManager": "pnpm@8.15.5",
+  "engines": {
+    "node": "20.10.0"
+  }
+}

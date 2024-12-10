@@ -1,0 +1,7 @@
+@import '@foo/design/theme';
+
+.button {
+  background: #fff;
+  color: theme(--color-primary);
+  padding .25rem;
+}

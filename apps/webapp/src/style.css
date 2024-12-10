@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+@import '@foo/design/theme';
+
+body {
+  background: theme(--color-dark);
+}
